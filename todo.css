@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: grey;
+}
+
+.todoSection {
+  background: rgba(240, 216, 216, 0.6);
+  width: 70%;
+  margin: 4rem auto;
+  padding: 2rem;
+  border-radius: 5px;
+  height: auto;
+  text-align: center;
+}
+h5 {
+  background: rgba(240, 216, 216, 0.6);
+  width: 70%;
+  margin: 6px auto;
+  padding: 5px;
+  border-radius: 5px;
+  height: auto;
+  text-align: center;
+}
+
+button {
+  padding: 7px;
+  margin-left: 7px;
+}
+
+.danger {
+  background: "red";
+}
+.success {
+  background: "limegreen";
+}
